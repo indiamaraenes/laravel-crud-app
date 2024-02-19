@@ -65,14 +65,9 @@ php artisan serve
 
 Acesse o aplicativo em [http://localhost:8000](http://localhost:8000).
 
-## Uso
+## Projeto
 
-Este aplicativo permite que você realize operações CRUD em uma entidade específica. Para começar, você pode:
-
-- Visualizar todos os registros
-- Criar um novo registro
-- Atualizar um registro existente
-- Excluir um registro existente
+O projeto demonstra como construir um aplicativo web básico onde os usuários podem criar, visualizar, atualizar e excluir registros em um banco de dados MySQL usando o Laravel.
 
 ## Contribuindo
 
