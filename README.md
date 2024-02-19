@@ -13,7 +13,7 @@ Este é um aplicativo CRUD (Create, Read, Update, Delete) em construção desenv
 1. Clone este repositório para sua máquina local:
 
 ```
-git clone https://github.com/seu-usuario/laravel-crud-app.git
+git clone https://github.com/indiamaraeenes/laravel-crud-app.git
 ```
 
 2. Navegue até o diretório do projeto:
